@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-03T09:42:35 CEST" name="Surefire suite" finished-at="2024-07-03T09:43:24 CEST" duration-ms="48440">
+    <groups>
+    </groups>
+    <test started-at="2024-07-03T09:42:35 CEST" name="Surefire test" finished-at="2024-07-03T09:43:24 CEST" duration-ms="48440">
+      <class name="pack.Test_face2">
+        <test-method is-config="true" signature="avantTest()[pri:0, instance:pack.Test_face2@62e7f11d]" started-at="2024-07-03T09:43:15 CEST" name="avantTest" finished-at="2024-07-03T09:43:19 CEST" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avantTest -->
+        <test-method signature="Test4()[pri:0, instance:pack.Test_face2@62e7f11d]" started-at="2024-07-03T09:43:19 CEST" name="Test4" finished-at="2024-07-03T09:43:23 CEST" duration-ms="4101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method is-config="true" signature="AFtetTest()[pri:0, instance:pack.Test_face2@62e7f11d]" started-at="2024-07-03T09:43:23 CEST" name="AFtetTest" finished-at="2024-07-03T09:43:24 CEST" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFtetTest -->
+      </class> <!-- pack.Test_face2 -->
+      <class name="pack.Test_face1">
+        <test-method is-config="true" signature="avantTest()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:42:35 CEST" name="avantTest" finished-at="2024-07-03T09:42:46 CEST" duration-ms="11003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avantTest -->
+        <test-method signature="test1()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:42:46 CEST" name="test1" finished-at="2024-07-03T09:42:50 CEST" duration-ms="3673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="AFtetTest()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:42:50 CEST" name="AFtetTest" finished-at="2024-07-03T09:42:50 CEST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFtetTest -->
+        <test-method is-config="true" signature="avantTest()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:42:50 CEST" name="avantTest" finished-at="2024-07-03T09:43:00 CEST" duration-ms="9478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avantTest -->
+        <test-method signature="test2()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:43:00 CEST" name="test2" finished-at="2024-07-03T09:43:04 CEST" duration-ms="4550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="AFtetTest()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:43:04 CEST" name="AFtetTest" finished-at="2024-07-03T09:43:05 CEST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFtetTest -->
+        <test-method is-config="true" signature="avantTest()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:43:05 CEST" name="avantTest" finished-at="2024-07-03T09:43:11 CEST" duration-ms="6733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- avantTest -->
+        <test-method signature="test3()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:43:11 CEST" name="test3" finished-at="2024-07-03T09:43:15 CEST" duration-ms="3751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="AFtetTest()[pri:0, instance:pack.Test_face1@a1cdc6d]" started-at="2024-07-03T09:43:15 CEST" name="AFtetTest" finished-at="2024-07-03T09:43:15 CEST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AFtetTest -->
+      </class> <!-- pack.Test_face1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
